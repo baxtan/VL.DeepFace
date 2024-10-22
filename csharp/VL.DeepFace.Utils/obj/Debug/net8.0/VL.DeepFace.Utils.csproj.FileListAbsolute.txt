@@ -1,0 +1,4 @@
+C:\Users\ping\OneDrive\_Projects\_VL.Repos\VL.DeepFace\csharp\VL.DeepFace.Utils\bin\Debug\net8.0\VL.DeepFace.Utils.deps.json
+C:\Users\ping\OneDrive\_Projects\_VL.Repos\VL.DeepFace\csharp\VL.DeepFace.Utils\obj\Debug\net8.0\VL.DeepFace.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ping\OneDrive\_Projects\_VL.Repos\VL.DeepFace\csharp\VL.DeepFace.Utils\obj\Debug\net8.0\VL.DeepFace.Utils.AssemblyInfoInputs.cache
+C:\Users\ping\OneDrive\_Projects\_VL.Repos\VL.DeepFace\csharp\VL.DeepFace.Utils\obj\Debug\net8.0\VL.DeepFace.Utils.AssemblyInfo.cs

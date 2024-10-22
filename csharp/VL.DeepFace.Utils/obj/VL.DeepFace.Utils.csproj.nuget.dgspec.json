@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\VL.DeepFace.Utils.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\VL.DeepFace.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\VL.DeepFace.Utils.csproj",
+        "projectName": "VL.DeepFace.Utils",
+        "projectPath": "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\VL.DeepFace.Utils.csproj",
+        "packagesPath": "C:\\Users\\ping\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ping\\OneDrive\\_Projects\\_VL.Repos\\VL.DeepFace\\csharp\\VL.DeepFace.Utils\\NuGet.Config",
+          "C:\\Users\\ping\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://teamcity.vvvv.org/guestAuth/app/nuget/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "VL.Core": {
+              "target": "Package",
+              "version": "[2024.6.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
