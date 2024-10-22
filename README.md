@@ -1,2 +1,4 @@
 # VL.DeepFace
-DeepFace is a lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for python. It is a hybrid face recognition framework wrapping state-of-the-art models: VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, ArcFace, Dlib, SFace and GhostFaceNet.
+A Set of nodes in vvvv gamma based on the Serengil's deepface. 
+Read more here:https://github.com/serengil/deepface?tab=readme-ov-file#deepface
+Installation here: https://github.com/serengil/deepface?tab=readme-ov-file#installation-
